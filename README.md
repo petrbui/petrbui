@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Visitors](https://komarev.com/ghpvc/?username=petrbui&style=for-the-badge&label=Visitors+👀)
+<br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=petrbui)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui)](https://github.com/anuraghazra/github-readme-stats)
