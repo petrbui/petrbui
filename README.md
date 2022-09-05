@@ -1,5 +1,5 @@
 #IN PROGRESS
-
+![Visitors](https://komarev.com/ghpvc/?username=petrbui&style=for-the-badge&label=Visitors+👀)
 ```Javascript
 const BananaCode = (task) =>{
 
@@ -8,7 +8,9 @@ const person = {
    based:"Europe",
    isIntrovert:"true",
    languages:{
-     technological: [ ReactJS, Typescript, Javascript, NextJS, HTML5, CSS3, SASS, Redux, Node, Storybook, Styled-Component],
+     technological: [ 
+            ReactJS, Typescript, Javascript, NextJS, HTML5, CSS3, SASS, Redux, Node, Storybook, Styled-Component
+                     ],
      worlds:[ English, Czech, Vietnamese, Albanian, Serb-Croatina ]
      },
    hobby : [ Cooking, Eat, Fitness, Golf, Games, Box],
@@ -61,7 +63,7 @@ return TaskDone
 ```
 
 
-![Visitors](https://komarev.com/ghpvc/?username=petrbui&style=for-the-badge&label=Visitors+👀)
+
 <br>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
