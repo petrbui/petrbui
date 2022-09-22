@@ -68,5 +68,8 @@ return TaskDone
 ##
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
