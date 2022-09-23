@@ -72,4 +72,37 @@ return TaskDone
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2048%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 204 Contributions in the Year 2022
+ > 
+> 📦 121.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+TypeScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/petrbui/petrbui/main/charts/bar_graph.png) 
+
+
+ Last Updated on 23/09/2022 08:19:31 UTC
 <!--END_SECTION:waka-->
