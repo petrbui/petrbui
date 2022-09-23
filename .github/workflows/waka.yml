@@ -18,4 +18,8 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
           
