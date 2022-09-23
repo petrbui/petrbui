@@ -72,22 +72,50 @@ return TaskDone
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2048%20mins-blue)
+**I'm an Early 🐤** 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+```text
+🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   34.32% 
+🌆 Daytime    59 commits     ████████░░░░░░░░░░░░░░░░░   34.91% 
+🌃 Evening    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+🌙 Night      29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16%
 
-**🐱 My GitHub Data** 
+```
+📅 **I'm Most Productive on Tuesday** 
 
-> 🏆 204 Contributions in the Year 2022
- > 
-> 📦 121.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
+```text
+Monday       27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
+Tuesday      44 commits     ██████░░░░░░░░░░░░░░░░░░░   26.04% 
+Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Thursday     31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+Friday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+TypeScript               27 hrs 3 mins       ██████████████████████░░░   90.93% 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Bash                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
+JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
+
+🔥 Editors: 
+VS Code                  29 hrs 45 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      26 hrs 51 mins      ██████████████████████░░░   90.29% 
+Windows                  2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,10 +127,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/petrbui/petrbui/main/charts/bar_graph.png) 
-
-
- Last Updated on 23/09/2022 08:19:31 UTC
+ Last Updated on 23/09/2022 08:28:59 UTC
 <!--END_SECTION:waka-->
