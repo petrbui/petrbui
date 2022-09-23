@@ -12,7 +12,7 @@ const person = {
      technological: [ 
             ReactJS, Typescript, Javascript, NextJS, HTML5, CSS3, SASS, Redux, Node, Storybook, Styled-Component
                      ],
-     worlds:[ English, Czech, Vietnamese, Albanian, Serb-Croatina ]
+     countries:[ English, Czech, Vietnamese, Albanian, Serb-Croatina ]
      },
    hobby : [ Cooking, Eat, Fitness, Golf, Games, Box],
 
