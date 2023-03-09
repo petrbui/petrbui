@@ -14,7 +14,7 @@ const person = {
                      ],
      countries:[ English, Czech, Vietnamese, Albanian, Serb-Croatina ]
      },
-   hobby : [ Cooking, Eat, Fitness, Golf, Games, Box],
+   hobby : [ Cooking, Eat, Fitness, Golf, Games, Box, Climbing, Swiming],
 
 
 }
