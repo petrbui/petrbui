@@ -38,13 +38,15 @@ Sunday                   474 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 52 mins        █████████████████░░░░░░░░   67.20 % 
+TypeScript               54 mins             ████████░░░░░░░░░░░░░░░░░   32.79 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +61,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 18:59:04 UTC
+ Last Updated on 01/01/2025 19:05:02 UTC
 <!--END_SECTION:waka-->
