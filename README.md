@@ -11,6 +11,42 @@
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                79427 commits       ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌆 Daytime                150025 commits      ████████████████░░░░░░░░░   62.20 % 
+🌃 Evening                11283 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+🌙 Night                  470 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   46449 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Tuesday                  44231 commits       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Wednesday                48803 commits       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Thursday                 50228 commits       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Friday                   50855 commits       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Saturday                 104 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Sunday                   535 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -23,5 +59,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 19:16:15 UTC
+ Last Updated on 04/11/2025 19:16:22 UTC
 <!--END_SECTION:waka-->
