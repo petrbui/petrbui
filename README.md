@@ -11,6 +11,50 @@
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=petrbui&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                320190 commits      ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌆 Daytime                834417 commits      █████████████████░░░░░░░░   68.86 % 
+🌃 Evening                49125 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌙 Night                  7964 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   241264 commits      █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Tuesday                  223315 commits      █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Wednesday                241554 commits      █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Thursday                 248791 commits      █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Friday                   253748 commits      █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Saturday                 529 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Sunday                   2495 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -24,5 +68,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 05:33:17 UTC
+ Last Updated on 07/08/2026 23:42:25 UTC
 <!--END_SECTION:waka-->
